@@ -11,7 +11,7 @@ A concise introduction to my professional and academic profile.
 
 I am a full stack software developer with an enthusiastic interest in the way AI has been shaping the future of humankind, especially in regard to decision making processes and how humans experience free will. With experience working in TypeScript, Java and AWS Archicture, examples of my projects can be found below.
 
-I have a pretty diverse background, from doing a BSc in Sciences and Humanities degree and then a BA in Philosophy, to working in the baking industry, to moving abroad and doing volunteer work for a blind people charity, to developing mobile and web apps. Throughout these jobs I have always done my best to deliver high quality end produts. I like to follow the Pareto rule when organising my workday, focusing on the 20% piece of work that returns most of the results and automating the rest. 
+I have a pretty diverse background, from doing a BSc in Science and Humanities and then a BA in Philosophy, to working in the baking industry, to moving abroad and doing volunteer work for a blind people charity, to developing mobile and web apps. Throughout these jobs I have always done my best to deliver high quality end produts. I like to follow the Pareto rule when organising my workday, focusing on the 20% piece of work that returns most of the results and automating the rest. 
 
 :pencil: Currently working on building a web blog system (similar to wordpress) in Ruby on Rails.
 
@@ -20,9 +20,9 @@ I have a pretty diverse background, from doing a BSc in Sciences and Humanities 
 |Project        |Description                                           |Technologies              |
 |----------|------------------------------------------------------|----------------------------------------|
 |[TaoPaiPai Fitness Tracker](https://github.com/ortizlilian/taopaipai)| A web repetition and set counter that uses ML to perform pose estimation on video frames captured online by the user's webcam and return the repetitions number of a given exercise. | TypeScript, React, Node, Express, MediaPipe Pose, GraphQL |
-|[VirtWardrobe Android App](https://github.com/ortizlilian)| Android mobile app that allows users to organize their wardrobe and plan their daily outfits in advance. In addition, the app provides users with a broad view of outfits worn only on rare occasions, giving insights on whether keeping or donating unused pieces. | Java, SQLite, XML |
-|[Snow Sports Co Oracle DB](https://github.com/ortizlilian)| Relational 18c Oracle Database designed for a small company. Apart from modelling the db, I created some usefull queries and a compreensive document containing all the db details | Oracle Database, Oracle SQL Developer |
-|[PRINCE2 Project Plan](https://github.com/ortizlilian) | A project plan for a retail company moving online, following PRINCE2 Guidelines | PRINCE2, Project Management |
+|[VirtWardrobe Android App](https://github.com/ortizlilian)| An android mobile app that allows users to organize their wardrobe and plan their daily outfits in advance. In addition, the app provides users with a broad view of outfits worn only on rare occasions, giving insights on whether keeping or donating unused pieces. | Java, SQLite, XML |
+|[Snow Sports Co Oracle DB](https://github.com/ortizlilian)| A relational 18c Oracle Database designed for a small company. Apart from modelling the db, I created some usefull queries and a compreensive document containing all the db details | Oracle Database, Oracle SQL Developer |
+|[PRINCE2 Project Plan](https://github.com/ortizlilian) | A project plan for a retail company creating an online channel of sales, following PRINCE2 Guidelines | PRINCE2, Project Management |
 
 ## Achievements
 
@@ -37,7 +37,7 @@ WIP
 
 #### Certifications
 - AWS Certified Solutions Architect [BFQWNJ6JF24E19S7](https://drive.google.com/file/d/1IGfbhBMkm8GLsDIBu2SgO7I3X9E56JEf/view) (Jun 2022)
-- ISTQB, Certified Tester Foundation Level [00475262](https://drive.google.com/file/d/1jhB1m83Bsg8SE3tkZWLryL-fpNP0WJmw/view)
+- ISTQB, Certified Tester Foundation Level [00475262](https://drive.google.com/file/d/1jhB1m83Bsg8SE3tkZWLryL-fpNP0WJmw/view) (Jan 2020)
 
 ## Experience
 
