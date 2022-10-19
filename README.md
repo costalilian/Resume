@@ -36,7 +36,7 @@ WIP
 - University of ABC (overseas degree) BSc Science and Humanities (2017)
 
 #### Certifications
-- AWS Certified Solutions Architect [BFQWNJ6JF24E19S7](https://drive.google.com/file/d/1IGfbhBMkm8GLsDIBu2SgO7I3X9E56JEf/view) (Jun 2022)
+- AWS Certified Solutions Architect – Associate [BFQWNJ6JF24E19S7](https://drive.google.com/file/d/1IGfbhBMkm8GLsDIBu2SgO7I3X9E56JEf/view) (Jun 2022)
 - ISTQB, Certified Tester Foundation Level [00475262](https://drive.google.com/file/d/1jhB1m83Bsg8SE3tkZWLryL-fpNP0WJmw/view)
 
 ## Experience
