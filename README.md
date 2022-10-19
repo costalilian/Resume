@@ -50,6 +50,5 @@ WIP
 - Helped old people with partial or total sight loss to keep connected to the world through IT tools, like smart speakers (Alexa, Google Nest), special software programs (Synaptic, GuideConnect), OS built-in tools (magnifier, narrator), among others.
 
 **Caixa Economica Federal (overseas)** (2013 - 2018)
-
 *Finance Technician*  
 - Performed several bank-related tasks, such as opening and closing bank accounts, selling insurances and bank products, monitoring due mortgages and various lines of credit, operating the till when needed, etc.
