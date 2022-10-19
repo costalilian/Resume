@@ -20,9 +20,9 @@ I have a pretty diverse background, from doing a BSc in Science and Humanities a
 |Project        |Description                                           |Technologies              |
 |----------|------------------------------------------------------|----------------------------------------|
 |[TaoPaiPai Fitness Tracker](https://github.com/ortizlilian/taopaipai)| A web repetition and set counter that uses ML to perform pose estimation on video frames captured online by the user's webcam and return the repetitions number of a given exercise. | TypeScript, React, Node, Express, MediaPipe Pose, GraphQL |
-|[VirtWardrobe Android App](https://github.com/ortizlilian)| An android mobile app that allows users to organize their wardrobe and plan their daily outfits in advance. In addition, the app provides users with a broad view of outfits worn only on rare occasions, giving insights on whether keeping or donating unused pieces. | Java, SQLite, XML |
-|[Snow Sports Co Oracle DB](https://github.com/ortizlilian)| A relational 18c Oracle Database designed for a small company. Apart from modelling the db, I created some usefull queries and a compreensive document containing all the db details | Oracle Database, Oracle SQL Developer |
-|[PRINCE2 Project Plan](https://github.com/ortizlilian) | A project plan for a retail company creating an online channel of sales, following PRINCE2 Guidelines | PRINCE2, Project Management |
+|[VirtWardrobe Android App](https://github.com/ortizlilian/virtwardrobe)| An android mobile app that allows users to organize their wardrobe and plan their daily outfits in advance. In addition, the app provides users with a broad view of outfits worn only on rare occasions, giving insights on whether keeping or donating unused pieces. | Java, SQLite, XML |
+|[Snow Sports Co Oracle DB](https://github.com/ortizlilian/oracle18cdb)| A relational 18c Oracle Database designed for a small company. Apart from modelling the db, I created some usefull queries and a compreensive document containing all the db details | Oracle Database, Oracle SQL Developer |
+|[PRINCE2 Project Plan](https://github.com/ortizlilian/prince2pp) | A project plan for a retail company creating an online channel of sales, following PRINCE2 Guidelines | PRINCE2, Project Management |
 
 ## Achievements
 
@@ -49,7 +49,6 @@ WIP
 *IT Helper*  
 - Helped old people with partial or total sight loss to keep connected to the world through IT tools, like smart speakers (Alexa, Google Nest), special software programs (Synaptic, GuideConnect), OS built-in tools (magnifier, narrator), among others.
 
-**Caixa Economica Federal (overseas)** (2013 - 2018)
-
+**Caixa Economica Federal (overseas)** (2013 - 2018)  
 *Finance Technician*  
 - Performed several bank-related tasks, such as opening and closing bank accounts, selling insurances and bank products, monitoring due mortgages and various lines of credit, operating the till when needed, etc.
