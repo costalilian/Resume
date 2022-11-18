@@ -4,7 +4,7 @@ A concise introduction to my professional and academic profile.
   <h1>Lilian Ortiz</h1>
   **Full-stack software developer**<br>
     
-| [Projects](https://github.com/ortizlilian/Resume/README.md#projects) | [Achievements](https://github.com/ortizlilian/Resume/README.md#achievements) | [Experience](https://github.com/ortizlilian/Resume/README.md#experience) | [LinkedIn](https://www.linkedin.com/in/ortizlilian/) |
+| [Projects](https://github.com/ortizlilian/Resume#projects) | [Achievements](https://github.com/ortizlilian/Resume#achievements) | [Experience](https://github.com/ortizlilian/Resume#experience) | [LinkedIn](https://www.linkedin.com/in/ortizlilian/) |
   <br>
 </div>
 
