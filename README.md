@@ -13,7 +13,9 @@ I am a junior frontend web developer deeply passionate about the impact of AI on
 
 I bring a wealth of diverse experiences to my work, having studied a BSc in Science and Humanities, earned a BA in Philosophy, gained experience in the Banking Industry, volunteered in IT for a blind people charity, and developed web applications. This breadth of knowledge and exposure provides me with a unique perspective and allows me to bring innovative ideas to the table.
 
-Throughout my academic and professional journey, I have developed a strong commitment to delivering exceptional results. I employ the Pareto principle in my workday by prioritizing the 20% of tasks that generate the most significant outcomes and utilizing automation to streamline the remainder. This method allows me to effectively manage my time and resources, enabling me to maximize my impact and deliver high-quality end products consistently. 
+Throughout my academic and professional journey, I have developed a strong commitment to delivering exceptional results. I employ the Pareto principle in my workday by prioritizing the 20% of tasks that generate the most significant outcomes and utilizing automation to streamline the remainder. This method allows me to effectively manage my time and resources, enabling me to maximize my impact and deliver high-quality end products consistently.
+
+On a more personal level, I am a dedicated reader with a deep love for non-fiction. My passion for learning and personal growth led me to read 36 books last year. I am also an enthusiastic anime fan, my currently top 3 favorites animes are: Demon Slayer, My Hero Academia, and Full Metal Alchemist. Additionally, I'm an avid outdoor volleyball player, taking advantage of spring and summer to practice. Moreover, I really enjoy to cook, especially to my loved ones. I found cooking a wonderful way to bring joy to those around me. Finally I possess a keen attention to detail, which extends to my personal life where I maintain a clean and organized home and take pride in keeping my possessions in order.
 
 ## Projects
 
