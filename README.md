@@ -2,7 +2,7 @@ A concise introduction to my professional and academic profile.
 
 <div align="center">
   <h1>Lilian Ortiz</h1>
-  **Full-stack software developer**<br>
+  **Junior Web Developer**<br>
     
 | [Projects](https://github.com/ortizlilian/Resume#projects) | [Achievements](https://github.com/ortizlilian/Resume#achievements) | [Education](https://github.com/ortizlilian/Resume#education) | [Certifications](https://github.com/ortizlilian/Resume#certifications) | [Experience](https://github.com/ortizlilian/Resume#experience) | [LinkedIn](https://www.linkedin.com/in/ortizlilian/) |
   <br>
