@@ -56,7 +56,7 @@ On a more personal level, I am a dedicated reader with a deep love for non-ficti
 
 **edX & Trilogy Education Services** (2022 - *current*)
 
-*Web Developer BootCamp Student*
+*Web Developer Bootcamp Student*
 -	Successfully developed web applications in JavaScript, using DOM, jQuery, Bootstrap and REST apis.
 -	Reviewed software requirements and wrote software technical documentation.
 -	Supportively worked in a team of three, on a JavaScript project, using scrum methodology.
