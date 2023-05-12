@@ -67,7 +67,7 @@ On a more personal level, I am a dedicated reader with a deep love for non-ficti
 -	Effectively configured IoT devices to respond to voice commands and set up smart homes with Alexa and Google Home.
 
 
-**Finance Technician** (2013 - 2018)  
+**Finance Technician** (2013 - 2020)  
 *Contractor*  
 -	Earned the award for "The Most Complimented Employee” in my branch by consistently delivering customer service of notably high standards.
 -	Increased branch profitability by 40%, by successfully negotiating repayments with loan agreement holders who were in default.
