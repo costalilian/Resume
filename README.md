@@ -9,13 +9,13 @@ A concise introduction to my professional and academic profile.
 </div>
 
 
-I am a junior frontend web developer deeply passionate about the impact of AI on shaping the future of humanity, particularly in regards to decision-making processes and the human experience of free will. I bring expertise in JavaScript, jQuery, REST apis, and AWS Architecture, and I invite you to explore some of my projects below.
+I am a junior software developer deeply passionate about the impact of AI on shaping the future of humanity, particularly in regards to decision-making processes and the human experience of free will. I bring expertise in JavaScript, jQuery, REST apis, and AWS Architecture, and I invite you to explore some of my projects below.
 
 I bring a wealth of diverse experiences to my work, having studied a BSc in Science and Humanities, earned a BA in Philosophy, gained experience in the Banking Industry, volunteered in IT for a blind people charity, and developed web applications. This breadth of knowledge and exposure provides me with a unique perspective and allows me to bring innovative ideas to the table.
 
 Throughout my academic and professional journey, I have developed a strong commitment to delivering exceptional results. I employ the Pareto principle in my workday by prioritizing the 20% of tasks that generate the most significant outcomes and utilizing automation to streamline the remainder. This method allows me to effectively manage my time and resources, enabling me to maximize my impact and deliver high-quality end products consistently.
 
-On a more personal level, I am a dedicated reader with a deep love for non-fiction. My passion for learning and personal growth led me to read 36 books last year. I am also an enthusiastic anime fan, my currently top 3 favorites animes are: Demon Slayer, My Hero Academia, and Full Metal Alchemist. Additionally, I'm an avid outdoor volleyball player, taking advantage of spring and summer to practice. Moreover, I really enjoy to cook, especially to my loved ones. I found cooking a wonderful way to bring joy to those around me. Finally I possess a keen attention to detail, which extends to my personal life where I maintain a clean and organized home and take pride in keeping my possessions in order.
+On a more personal level, I am a dedicated reader with a deep love for non-fiction. My passion for learning and personal growth led me to read 36 books last year. I am also an enthusiastic anime fan, my currently top 3 favorites animes are: Demon Slayer, My Hero Academia, and InuYasha. Additionally, I'm an avid outdoor volleyball player, taking advantage of spring and summer to practice. Moreover, I really enjoy to cook, especially to my loved ones. I found cooking a wonderful way to bring joy to those around me. Finally I possess a keen attention to detail, which extends to my personal life where I maintain a clean and organized home and take pride in keeping my possessions in order.
 
 ## Projects
 
@@ -43,7 +43,7 @@ On a more personal level, I am a dedicated reader with a deep love for non-ficti
 | 10/2022 to 04/2023 | edX & Trilogy Education Services | Web Development Intensive Bootcamp |
 | 03/2021 to 09/2022 | London Metropolitan University | MSc in Information Technology |
 | 2020 | University of ABC | BA Philosophy (*overseas degree*) |
-| 2017 |University of ABC | BSc Science and Humanities (*overseas degree*) |
+| 2017 | University of ABC | BSc Science and Humanities (*overseas degree*) |
 
 ## Certifications
 
@@ -54,9 +54,9 @@ On a more personal level, I am a dedicated reader with a deep love for non-ficti
 
 ## Experience
 
-**edX & Trilogy Education Services** (2022 - *current*)
+**Costa Interactive** (2020 - Mar 2023)
 
-*Web Developer Bootcamp Student*
+*Web Developer*
 -	Successfully developed web applications in JavaScript, using DOM, jQuery, Bootstrap and REST apis.
 -	Reviewed software requirements and wrote software technical documentation.
 -	Supportively worked in a team of three, on a JavaScript project, using scrum methodology.
@@ -67,11 +67,12 @@ On a more personal level, I am a dedicated reader with a deep love for non-ficti
 -	Effectively configured IoT devices to respond to voice commands and set up smart homes with Alexa and Google Home.
 
 
-**Caixa Economica Federal (*overseas*)** (2013 - 2018)  
-*Finance Technician*  
+**Finance Technician** (2013 - 2018)  
+*Contractor*  
 -	Earned the award for "The Most Complimented Employee” in my branch by consistently delivering customer service of notably high standards.
 -	Increased branch profitability by 40%, by successfully negotiating repayments with loan agreement holders who were in default.
-
-**Itau Unibanco SA (*overseas*)** (2009 - 2013)  
-*Business Agent*  
 -	Awarded third place in the monthly investment sales contest for three consecutive months, in a branch with over 50 employees.
+- Processing and verifying financial transactions such as loans, investments, and deposits.
+- Assisting customers with account inquiries, loan applications, and other financial needs.
+- Conducting financial analysis and forecasting to identify potential risks and opportunities.
+- Staying current with industry trends and changes in financial regulations.
