@@ -55,6 +55,7 @@ On a more personal level, I am a dedicated reader with a deep love for non-ficti
 ## Experience
 
 **Costa Interactive** (2020 - Mar 2023)
+
 *Web Developer*
 -	Successfully developed web applications in JavaScript, using DOM, jQuery, Bootstrap and REST apis.
 -	Reviewed software requirements and wrote software technical documentation.
