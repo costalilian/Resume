@@ -67,7 +67,7 @@ On a more personal level, I am a dedicated reader with a deep love for non-ficti
 
 
 **Finance Technician** (2013 - 2020)  
-*Contractor*  
+*Overseas*  
 -	Earned the award for "The Most Complimented Employee” in my branch by consistently delivering customer service of notably high standards.
 -	Increased branch profitability by 40%, by successfully negotiating repayments with loan agreement holders who were in default.
 -	Awarded third place in the monthly investment sales contest for three consecutive months, in a branch with over 50 employees.
